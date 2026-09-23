@@ -1,0 +1,6 @@
+{
+  "name": "Digital Horizon — Lead Hunter",
+  "description": "Internal lead-generation & CRM tool to discover local businesses, detect website & social opportunities, score leads, and generate personalized outreach pitches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
